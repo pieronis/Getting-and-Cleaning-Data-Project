@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Project
-**Final project for Getting and Cleaning Data course
+**Final project for Getting and Cleaning Data course**
 
 run_analysis is the project script file and it consists of these steps:
 
