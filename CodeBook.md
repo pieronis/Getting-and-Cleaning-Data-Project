@@ -9,12 +9,12 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 
 ## Activities and relatives identification numbers
 
-* `WALKING` (value `1`)
-* `WALKING_UPSTAIRS` (value `2`)
-* `WALKING_DOWNSTAIRS` (value `3`)
-* `SITTING` (value `4`)
-* `STANDING` (value `5`)
-* `LAYING` (value `6`)
+* `WALKING`: `1`
+* `WALKING_UPSTAIRS`: `2`
+* `WALKING_DOWNSTAIRS`: `3`
+* `SITTING`: `4`
+* `STANDING`: `5`
+* `LAYING`: `6`
 
 ## Measurements
 
