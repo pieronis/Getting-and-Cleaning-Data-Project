@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in tidy.txt.
+Below the summary of tidy_data.txt
 
 ## The two final dataset identifiers:
 
