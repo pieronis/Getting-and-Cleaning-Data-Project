@@ -15,3 +15,32 @@ Below the summary of tidy_data.txt
 * Sitting: 4
 * Standing: 5
 * Laying: 6
+
+## Measurements
+
+* tBodyAccMeanX
+* tBodyAccMeanY"
+* "tBodyAccMeanZ"
+* "tBodyAccStandardDeviationX"
+* "tBodyAccStandardDeviationY"
+* "BodyAccStandardDeviationZ"
+* "tGravityAccMeanX"
+* "tGravityAccMeanY"
+* "tGravityAccMeanZ"
+* "tGravityAccStandardDeviationX"
+* "tGravityAccStandardDeviationY"
+* "tGravityAccStandardDeviationZ"
+* "tBodyAccJerkMeanX"
+* "tBodyAccJerkMeanY"
+* "tBodyAccJerkMeanZ"
+* "tBodyAccJerkStandardDeviationX"
+* "tBodyAccJerkStandardDeviationY"
+* "tBodyAccJerkStandardDeviationZ"
+* "tBodyGyroMeanX"
+* "tBodyGyroMeanY"
+* "tBodyGyroMeanZ"
+* "tBodyGyroStandardDeviationX"
+* "tBodyGyroStandardDeviationY"
+* "tBodyGyroStandardDeviationZ"
+8 "tBodyGyroJerkMeanX"
+8 "tBodyGyroJerkMeanY"
