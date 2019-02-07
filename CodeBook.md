@@ -1,20 +1,20 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in tidy.txt.
 
 ## The two final dataset identifiers:
 
-* `subject` 
-* `activity` 
+* subject 
+* activity 
 
 ## Activities and relatives identification numbers
 
-* `WALKING`: `1`
-* `WALKING_UPSTAIRS`: `2`
-* `WALKING_DOWNSTAIRS`: `3`
-* `SITTING`: `4`
-* `STANDING`: `5`
-* `LAYING`: `6`
+* Walking: 1
+* Walking_Upstairs: 2
+* Walking_Downstairs: 3
+* Sitting: 4
+* Standing: 5
+* Laying: 6
 
 ## Measurements
 
